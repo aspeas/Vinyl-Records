@@ -1,5 +1,8 @@
 field,display_name
+artist_stage_name,Artist
 title,Title
 date,Date
 description,Description
-subject,Subjects
+genre,Genre
+owner_of_object,Owner
+call_number,Call Number
