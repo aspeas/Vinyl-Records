@@ -1,5 +1,7 @@
 field,display_name,btn,hidden,sort_name
 date,Date,,,Date
-creator,Creator,,,
+artist_stage_name,Artist,true,
+genre,Genre,true,
+owner_of_object,Owner,true,
 subject,,true
-location,,true
+location,,false
