@@ -5,6 +5,8 @@ permalink: /genres.html
 cloud-fields: genre
 cloud-min: 
 cloud-stopwords:
+background: light
+button: secondary
 ---
 
 ## Browse Genres
