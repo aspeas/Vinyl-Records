@@ -6,7 +6,7 @@ cloud-fields: artist_stage_name
 cloud-min: 
 cloud-stopwords:
 background: light
-button: outline-secondary
+button: secondary
 ---
 
 ## Browse Artists
