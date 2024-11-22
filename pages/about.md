@@ -33,8 +33,8 @@ Vinyls in this collection are contained in single image JPEG files. Both the fro
 Metadata fields for this project are listed below. Those with links are searchable and will take you to the browse page for that field:
 - Title
 - Format [jpg](https://aspeas.github.io/vinyl-records/browse.html#%2Fjpeg)
-- Artist(https://aspeas.github.io/vinyl-records/artist.html)
-- Genres(https://aspeas.github.io/vinyl-records/genres.html)
+- [Artist](https://aspeas.github.io/vinyl-records/artist.html)
+- [Genres](https://aspeas.github.io/vinyl-records/genres.html)
 - Owner
 - Call Number
 - Description
