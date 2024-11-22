@@ -113,7 +113,7 @@ font-cdn: # add font stylesheet, e.g. <link href="https://fonts.googleapis.com/c
 # the values must match an icon svg name in "assets/lib/icons/"
 #
 # icons: 
-#   icon-image: image
+#   icon-image: vinyl-fill
 #   icon-audio: soundwave
 #   icon-video: film
 #   icon-pdf: file-pdf
