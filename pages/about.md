@@ -10,7 +10,7 @@ credits: true
 
 {% include feature/jumbotron.html objectid="/objects/photo collage.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;History of Vinyl;Technical Details;Rights Statement;Citations;Technical Credits" %}
+{% include feature/nav-menu.html sections="About the Collection;History of Vinyl;Technical Details;Rights Statement;Citations" %}
 
 ## About the Collection
 
