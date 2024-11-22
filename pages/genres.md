@@ -6,7 +6,7 @@ cloud-fields: genre
 cloud-min: 
 cloud-stopwords:
 background: light
-button: secondary
+button: info
 ---
 
 ## Browse Genres
