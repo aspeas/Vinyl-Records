@@ -5,6 +5,8 @@ permalink: /artist.html
 cloud-fields: artist_stage_name
 cloud-min: 
 cloud-stopwords:
+background: light
+button: outline-secondary
 ---
 
 ## Browse Artists
