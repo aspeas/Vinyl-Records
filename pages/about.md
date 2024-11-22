@@ -16,7 +16,7 @@ credits: true
 
 "This site hosts a digitized collection of various vinyl records from the Speas and Moore families (learn more about the families here on the [**Contributor Page**](https://aspeas.github.io/vinyl-records/contributors.html). These records come from four different generations of two families. I, Allie Speas, am the fourth-generation in this collection. Most of my albums were either purchased by myself, bought new or thrifted, or gifted to me from dear friends and family. The third-generation is my dad, Jim Speas, and he influenced my music taste quite a bit as a child. The second-generation is my grandfather, Riki Moore, who actually gave me his record collection as well as his parents’ collection. This leaves us with the first-generation being Eva Moore.
 
-I got my first record player as a junior in high school. My parents found it at a garage sale and brought it back home to me as a surprise. I had always wanted one and receiving this record player (insert photo) was a beloved gift. It has followed me from switching rooms in my house to traveling three hours away for my undergraduate education., and the wonderful tank still works like a charm
+I got my first record player as a junior in high school. My parents found it at a garage sale and brought it back home to me as a surprise. I had always wanted one and receiving this record player was a beloved gift. It has followed me from switching rooms in my house to traveling three hours away for my undergraduate education, and the wonderful tank still works like a charm. 
 
 Getting a record playing jumpstarted my need to collect and purchase various vinyl records, despite how much my bank account cries because of it. It is also how I came into possession of my grandfather's and his mom’s collections. My grandfather gave me all of them for Christmas the year that I got the record player.
 
@@ -41,7 +41,7 @@ Metadata fields for this project are listed below. Those with links are searchab
 - [Latitude & Longitude](https://aspeas.github.io/vinyl-records/map.html)
 - [Location](https://aspeas.github.io/vinyl-records/locations.html)
 
-You can see the Metadata Application Profile [here](https://aspeas.github.io/vinyl-records/
+You can see the Metadata Application Profile [here](https://aspeas.github.io/vinyl-records/objects/metadataprofile.pdf
 
 ## Rights Statement
 I believe that these vinyls fall under Non-Commercial Use Permitted, and this repository is not meant for commercial use.
@@ -56,7 +56,3 @@ Controlled Vocabularies
 - [Rights Statment](https://rightsstatements.org/en/)
 - [Apple Music Genre Categories](https://music.apple.com/us/search)
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
