@@ -38,7 +38,7 @@ Metadata fields for this project are listed below. Those with links are searchab
 - Owner
 - Call Number
 - Description
-- [Latitude & Longitude](https://aspeas.github.io/vinyl-records/map.html
+- [Latitude & Longitude](https://aspeas.github.io/vinyl-records/map.html)
 - [Location](https://aspeas.github.io/vinyl-records/locations.html)
 
 You can see the Metadata Application Profile [here](https://aspeas.github.io/vinyl-records/
