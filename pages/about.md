@@ -26,21 +26,20 @@ I am extremely grateful to all of my friends and family who have gifted records 
 
 ## History of Vinyl
 If you are interested in learning more about vinyl, and the history behind it, then this [website](https://thesoundofvinyl.us/blogs/vinyl-101/the-history-of-vinyl-records) is a great resource.
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
 
 ## Technical Details
 Vinyls in this collection are contained in single image JPEG files. Both the front and back of the vinyl covers are seperate JPEG files.
 
 Metadata fields for this project are listed below. Those with links are searchable and will take you to the browse page for that field:
-Title
-Format [jpg](https://aspeas.github.io/vinyl-records/browse.html#%2Fjpeg)
-Artist(https://aspeas.github.io/vinyl-records/artist.html)
-Genres(https://aspeas.github.io/vinyl-records/genres.html)
-Owner
-Call Number
-Description
-[Latitude & Longitude](https://aspeas.github.io/vinyl-records/map.html
-[Location](https://aspeas.github.io/vinyl-records/locations.html)
+- Title
+- Format [jpg](https://aspeas.github.io/vinyl-records/browse.html#%2Fjpeg)
+- Artist(https://aspeas.github.io/vinyl-records/artist.html)
+- Genres(https://aspeas.github.io/vinyl-records/genres.html)
+- Owner
+- Call Number
+- Description
+- [Latitude & Longitude](https://aspeas.github.io/vinyl-records/map.html
+- [Location](https://aspeas.github.io/vinyl-records/locations.html)
 
 You can see the Metadata Application Profile [here](https://aspeas.github.io/vinyl-records/
 
@@ -49,13 +48,13 @@ I believe that these vinyls fall under Non-Commercial Use Permitted, and this re
 
 ## Citations
 Controlled Vocabularies
-[IANA media types](https://www.iana.org/assignments/media-types/media-types.xhtml)
-[W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime)
-[Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/?find=Dublin&place=&nation=&english=Y)
-[LCNAF](https://id.loc.gov/authorities/names.html)
-[DCMI Type Vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/2003-02-12/)
-[Rights Statment](https://rightsstatements.org/en/)
-[Apple Music Genre Categories](https://music.apple.com/us/search)
+- [IANA media types](https://www.iana.org/assignments/media-types/media-types.xhtml)
+- [W3C Date and Time Formats](https://www.w3.org/TR/NOTE-datetime)
+- [Getty Thesaurus of Geographic Names](https://www.getty.edu/research/tools/vocabularies/tgn/?find=Dublin&place=&nation=&english=Y)
+- [LCNAF](https://id.loc.gov/authorities/names.html)
+- [DCMI Type Vocabulary](https://www.dublincore.org/specifications/dublin-core/dcmi-type-vocabulary/2003-02-12/)
+- [Rights Statment](https://rightsstatements.org/en/)
+- [Apple Music Genre Categories](https://music.apple.com/us/search)
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
