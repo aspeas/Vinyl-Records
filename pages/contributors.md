@@ -15,7 +15,7 @@ Allie (she/her) is a Master’s student in the Library Science department at Ind
 # *Contributors*
 
 ### Jim Speas
-Jim (he/him) is a great dad to two daughters. He shares a love of music, just like his youngest daughter. His favorite band is Kiss, just in case you can’t tell, and Kiss has been his favorite since he was a little kid. He is in the third generation and was born in 1966.
+Jim (he/him) is a great dad to two daughters. He shares a love of music with his youngest daughter Allie. His favorite band is Kiss, just in case you can’t tell, and Kiss has been his favorite since he was a little kid. He is in the third generation and was born in 1966.
 
 {% include feature/image.html objectid="/objects/jim_photo.jpg" width="25" caption="Jim living it up on a cruise." %}
 
