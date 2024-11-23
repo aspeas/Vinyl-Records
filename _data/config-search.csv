@@ -8,3 +8,4 @@ location,true,false
 genre,genre,true
 artist,artist,true
 owner_of_object,owner,true
+format,format,true
