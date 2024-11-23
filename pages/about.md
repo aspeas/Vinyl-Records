@@ -22,7 +22,9 @@ Getting a record playing jumpstarted my need to collect and purchase various vin
 
 Some of my personal vinyls are Billy Joel’s The Stranger, which I found in a thrift store near my undergrad, and Sleeping at Last’s Atlas: Space. My music taste is quite broad and as a result most of the genres that are represented by my thirteen records are all over the place. However, other generations are more specific to one or two genres.
 
-I am extremely grateful to all of my friends and family who have gifted records to me. I am also grateful to these people as each person has shaped me and my music taste in some fashion."
+I am extremely grateful to all of my friends and family who have gifted records to me. I am also grateful to these people as each person has shaped me and my music taste in some fashion.
+
+This project was created for [Z652: Digital Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA24/) with Dr. Walsh(https://homes.luddy.indiana.edu/jawalsh/) and Gyuri Kang."
 
 ## History of Vinyl
 If you are interested in learning more about vinyl, and the history behind it, then this [website](https://thesoundofvinyl.us/blogs/vinyl-101/the-history-of-vinyl-records) is a great resource.
@@ -41,7 +43,7 @@ Metadata fields for this project are listed below. Those with links are searchab
 - [Latitude & Longitude](https://aspeas.github.io/vinyl-records/map.html)
 - [Location](https://aspeas.github.io/vinyl-records/locations.html)
 
-You can see the Metadata Application Profile [here](https://aspeas.github.io/vinyl-records/objects/metadataprofile.pdf)
+You can see the Metadata Application Profile [here](https://aspeas.github.io/vinyl-records/objects/metadataprofile.pdf).
 
 ## Rights Statement
 I believe that these vinyls fall under Non-Commercial Use Permitted, and this repository is not meant for commercial use.
