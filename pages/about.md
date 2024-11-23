@@ -41,7 +41,7 @@ Metadata fields for this project are listed below. Those with links are searchab
 - [Latitude & Longitude](https://aspeas.github.io/vinyl-records/map.html)
 - [Location](https://aspeas.github.io/vinyl-records/locations.html)
 
-You can see the Metadata Application Profile [here](https://aspeas.github.io/vinyl-records/objects/metadataprofile.pdf
+You can see the Metadata Application Profile [here](https://aspeas.github.io/vinyl-records/objects/metadataprofile.pdf)
 
 ## Rights Statement
 I believe that these vinyls fall under Non-Commercial Use Permitted, and this repository is not meant for commercial use.
