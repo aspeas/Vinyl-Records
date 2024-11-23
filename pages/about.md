@@ -22,6 +22,10 @@ Getting a record playing jumpstarted my need to collect and purchase various vin
 
 Some of my personal vinyls are Billy Joel’s The Stranger, which I found in a thrift store near my undergrad, and Sleeping at Last’s Atlas: Space. My music taste is quite broad and as a result most of the genres that are represented by my thirteen records are all over the place. However, other generations are more specific to one or two genres.
 
+{% include feature/image.html objectid="vr019" width="25" caption="Joel's *The Stranger*" %}
+
+{% include feature/image.html objectid="vr034" width="25" caption="Sleeping at Last's *Atlas: Space" %}
+
 I am extremely grateful to all of my friends and family who have gifted records to me. I am also grateful to these people as each person has shaped me and my music taste in some fashion.
 
 This project was created for [Z652: Digital Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA24/) with Dr. Walsh(https://homes.luddy.indiana.edu/jawalsh/) and Gyuri Kang."
