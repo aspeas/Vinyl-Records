@@ -12,5 +12,5 @@ button: secondary
 
 ## Browse Locations
 
-Use this word cloud visualization to browse locations.
+All locations where the albums were published at a glance!
 Word size is determined by frequency and all words link to a corresponding collection search.
