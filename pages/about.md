@@ -14,7 +14,7 @@ credits: true
 
 ## About the Collection
 
-"This site hosts a digitized collection of various vinyl records from the Speas and Moore families (learn more about the families here on the [**Contributor Page**](https://aspeas.github.io/vinyl-records/contributors.html). These records come from four different generations of two families. I, Allie Speas, am the fourth-generation in this collection. Most of my albums were either purchased by myself, bought new or thrifted, or gifted to me from dear friends and family. The third-generation is my dad, Jim Speas, and he influenced my music taste quite a bit as a child. The second-generation is my grandfather, Riki Moore, who actually gave me his record collection as well as his parents’ collection. This leaves us with the first-generation being Eva Moore.
+"This site hosts a digitized collection of various vinyl records from the Speas and Moore families (learn more about the families here on the [**Contributor Page**](https://aspeas.github.io/vinyl-records/contributors.html).) These records come from four different generations of two families. I, Allie Speas, am the fourth-generation in this collection. Most of my albums were either purchased by myself, bought new or thrifted, or gifted to me from dear friends and family. The third-generation is my dad, Jim Speas, and he influenced my music taste quite a bit as a child. The second-generation is my grandfather, Riki Moore, who actually gave me his record collection as well as his parents’ collection. This leaves us with the first-generation being Eva Moore.
 
 I got my first record player as a junior in high school. My parents found it at a garage sale and brought it back home to me as a surprise. I had always wanted one and receiving this record player was a beloved gift. It has followed me from switching rooms in my house to traveling three hours away for my undergraduate education, and the wonderful tank still works like a charm. 
 
@@ -28,7 +28,7 @@ Some of my personal vinyls are Billy Joel’s The Stranger, which I found in a t
 
 I am extremely grateful to all of my friends and family who have gifted records to me. I am also grateful to these people as each person has shaped me and my music taste in some fashion.
 
-This project was created for [Z652: Digital Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA24/) with Dr. Walsh(https://homes.luddy.indiana.edu/jawalsh/) and Gyuri Kang."
+This project was created for [Z652: Digital Libraries](https://jawalsh.github.io/z652-Digital-Libraries-FA24/) with [Dr. Walsh](https://homes.luddy.indiana.edu/jawalsh/) and Gyuri Kang.
 
 ## History of Vinyl
 If you are interested in learning more about vinyl, and the history behind it, then this [website](https://thesoundofvinyl.us/blogs/vinyl-101/the-history-of-vinyl-records) is a great resource.
@@ -38,7 +38,7 @@ Vinyls in this collection are contained in single image JPEG files. Both the fro
 
 Metadata fields for this project are listed below. Those with links are searchable and will take you to the browse page for that field:
 - Title
-- Format [jpg](https://aspeas.github.io/vinyl-records/browse.html#%2Fjpeg)
+- Format
 - [Artist](https://aspeas.github.io/vinyl-records/artist.html)
 - [Genres](https://aspeas.github.io/vinyl-records/genres.html)
 - Owner
